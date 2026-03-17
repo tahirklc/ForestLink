@@ -18,7 +18,7 @@ Projemiz 3 ana katmandan oluşmaktadır:
 ## 🛠️ Geliştirme Durumu (Roadmap)
 - [x] Konsept ve Sistem Mimarisi Tasarımı
 - [x] IoT Sensör Veri Okuma ve Filtreleme Algoritmaları (Taslak)
-- [x] Mobil Uygulama UI/UX Temelleri
+- [x] Mobil Uygulama UI/UX Temelleri ve Veri Modeli
+- [x] Haberleşme API JSON Kontratlarının Oluşturulması
 - [ ] Edge AI Model Eğitimi (Veri Seti Toplanıyor)
-- [ ] Turkcell Bulut Entegrasyonu ve API Testleri (Planlanıyor)
-
+- [ ] Turkcell Bulut Entegrasyonu ve Gerçek Zamanlı Testler
