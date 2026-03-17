@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "timestamp": "2026-03-17T20:10:00Z",
+  "active_alarms": [
+    {
+      "node_id": "FL-NODE-04",
+      "location": {
+        "latitude": 41.1234,
+        "longitude": 29.5678,
+        "region": "Kuzey Ormanları 3. Sektör"
+      },
+      "sensor_data": {
+        "temperature_c": 54.2,
+        "co2_ppm": 850,
+        "voc_level": "High"
+      },
+      "ai_confidence_score": 0.88,
+      "alert_level": "CRITICAL"
+    }
+  ],
+  "system_health": {
+    "active_nodes": 42,
+    "offline_nodes": 0,
+    "gateway_status": "ONLINE",
+    "network": "Turkcell NB-IoT"
+  }
+}
